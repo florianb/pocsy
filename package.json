@@ -1,0 +1,24 @@
+{
+  "name": "pocsy",
+  "version": "1.0.0",
+  "description": "Proof of concept of an fm synthesis synthesizer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianb/pocsy.git"
+  },
+  "author": "florian.breisch@mindkeeper.solutions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/florianb/pocsy/issues"
+  },
+  "homepage": "https://github.com/florianb/pocsy#readme",
+  "dependencies": {
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.12"
+  }
+}
